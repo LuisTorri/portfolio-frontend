@@ -34,7 +34,7 @@ Feel free to reach out for collaborations or questions!
 
 Email: torriluis12@gmail.com
 
-LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/luis-torri/)
+LinkedIn: (https://www.linkedin.com/in/luis-torri/)
 
 ## ⚙ Setup
 
